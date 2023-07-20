@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on **Kotlin**
 
 - 📫 How to reach me **kutaykrm61@gmail.com**
-- 
 <br />
 <br />
 
