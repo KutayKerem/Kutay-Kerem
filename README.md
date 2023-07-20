@@ -21,3 +21,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kutaykerem&show_icons=true&locale=en&layout=compact" alt="kutaykerem" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kutaykerem&show_icons=true&locale=en" alt="kutaykerem" /></p>
+
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
