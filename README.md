@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kutay Kerem</h1>
 <h3 align="center">Android Developer</h3>
 
-- 🔭 I’m currently working on **Kotlin**
+- 🔭 I am currently working on **Kotlin**
 
 - 📫 How to reach me **kutaykrm61@gmail.com**
 
